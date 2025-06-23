@@ -1,7 +1,5 @@
-# TareaINFO088
-Tarea en la que se pondra a prueba el conocimiento de estructuras de datos y algoritmos aprendidos durante el semestre.
-
-La carpeta Lab-Ejemplo es una guia para hacer la medicion de los tiempos de ejecucion del programa, eviten modificar el contenido de esta carpeta.
+# TAREA 2 TALLER 3
+LO MISMO QUE LA TAREA 1 PERO AHORA CON ARBOLES PORQUE SOMOS UNOS ECOLOGICOS VEGANOS KULTRUN
 
 ## Para ejecutar el programa fuente:
 1) Entrar en la carpeta "Codigo-Fuente"
